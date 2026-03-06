@@ -1,0 +1,15 @@
+Streamlit
+
+Langchain-community
+
+Langchain-huggingface
+
+Langchain-text-splitters
+
+Faiss-cpu
+
+Pypdf
+
+Sentence-transformers
+
+Transformers
