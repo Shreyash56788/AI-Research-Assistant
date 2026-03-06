@@ -72,10 +72,3 @@ This tool simplifies the process of reading complex research papers by enabling 
 • Knowledge graph visualization for concepts
 • Multi-document analysis
 
----
-
-If you want, I can also give you:
-
-• **A powerful GitHub README format (looks very professional)**
-• **Architecture diagram for this project**
-• **Better project name ideas that impress recruiters** 🚀
